@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="43748481-2177-45f8-a9b8-578383c5585f" name="hrustalev" url="http://dock4.beget.com">
+        <fileTransfer host="dock4.beget.com" port="21" rootFolder="/hrustalev/public_html" password="df92df9fdfe3dff2dfecdfc3dffddfdd" username="n90098jq">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
